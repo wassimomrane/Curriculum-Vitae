@@ -1,5 +1,5 @@
 var currentImageIndex = 0;
-var images = ['wintercamp.png', 'summer bootcamp.jpg', 'nmtcv2.jpg', 'azure.png', 'big data.png', 'blockchain.png', 'crypto.png', 'industry 4.png', 'nft.png', 'nmtcv3.jpg', 'jpo.jpg', 'angular iot.jpg', 'git iot.jpg', ]; // Ajoutez vos noms d'images ici
+var images = ['summer bootcamp.jpg', 'nmtcv2.jpg', 'azure.png', 'big data.png', 'blockchain.png', 'crypto.png', 'industry 4.png', 'nft.png', 'nmtcv3.jpg', 'jpo.jpg', 'angular iot.jpg', 'git iot.jpg', ]; // Ajoutez vos noms d'images ici
 
 
 function showImage(index) {
